@@ -6,9 +6,9 @@
             "defaultValue": "odcosmosdbaccount",
             "type": "String"
         },
-		"databaseName": {
-          "defaultValue": "testCosmosDb",
-          "type": "String"
+        "databaseName": {
+            "defaultValue": "testCosmosDb",
+            "type": "String"
         }
     },
     "variables": {},
